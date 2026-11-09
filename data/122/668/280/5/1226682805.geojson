@@ -43,7 +43,7 @@
         "wk:page":"Governor%27s_Harbour"
     },
     "wof:country":"BS",
-    "wof:geomhash":"1aeafb26ba5cd63d7732db6ecb23ce48",
+    "wof:geomhash":"c8f89ec74efccefe9d86fce70ba583f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,5 +68,5 @@
     -76.23333000000002,
     25.16667
 ],
-  "geometry": {"coordinates":[-76.23333000000002,25.16667],"type":"Point"}
+  "geometry": {"coordinates":[-76.23333,25.16667],"type":"Point"}
 }

@@ -114,7 +114,7 @@
         "gn:id":3572922
     },
     "wof:country":"BS",
-    "wof:geomhash":"c4b7e8c7503d56ff7189f27a647e0163",
+    "wof:geomhash":"e2d7769c9e1bfd7e456dde54fa6327a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,5 +139,5 @@
     -74.51666999999998,
     23.95
 ],
-  "geometry": {"coordinates":[-74.51666999999998,23.95],"type":"Point"}
+  "geometry": {"coordinates":[-74.51667,23.95],"type":"Point"}
 }

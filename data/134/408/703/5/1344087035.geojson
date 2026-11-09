@@ -45,7 +45,7 @@
         "wk:page":"Stafford_Creek"
     },
     "wof:country":"BS",
-    "wof:geomhash":"a6f56aae524ade97671f34be90724e32",
+    "wof:geomhash":"95de4b10f381eb05a5d53229d0261caf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -77.93668000000002,
     24.90594
 ],
-  "geometry": {"coordinates":[-77.93668000000002,24.90594],"type":"Point"}
+  "geometry": {"coordinates":[-77.93668,24.90594],"type":"Point"}
 }

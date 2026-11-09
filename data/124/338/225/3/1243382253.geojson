@@ -112,7 +112,7 @@
         "wk:page":"Eleuthera"
     },
     "wof:country":"BS",
-    "wof:geomhash":"a313ec541e98c58bda27772f7297ea86",
+    "wof:geomhash":"42954576512695f8a87645a72ac39eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,5 +137,5 @@
     -76.15023000000002,
     25.136
 ],
-  "geometry": {"coordinates":[-76.15023000000002,25.136],"type":"Point"}
+  "geometry": {"coordinates":[-76.15023,25.136],"type":"Point"}
 }
