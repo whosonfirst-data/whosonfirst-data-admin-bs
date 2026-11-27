@@ -1,0 +1,73 @@
+{
+  "id": 9895090102,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.40243,27.25993,-78.40243,27.25993",
+    "geom:latitude":27.25993,
+    "geom:longitude":-78.40243,
+    "gn:population":23,
+    "iso:country":"BS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11694817: name \"Walker Cay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11694817"
+        },
+        {
+            "citation":"GeoNames populated place 11694817: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11694817"
+        },
+        {
+            "citation":"GeoNames populated place 11694817: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11694817"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669079 (Grand Cay), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339,
+        85669079,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11694817
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"d7d83fe71fbba3973825bb999518e1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":9895090102,
+            "region_id":85669079
+        }
+    ],
+    "wof:id":9895090102,
+    "wof:lastmodified":1795746199,
+    "wof:name":"Walker Cay",
+    "wof:parent_id":85669079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.40243,
+    27.25993,
+    -78.40243,
+    27.25993
+],
+  "geometry": {"coordinates":[-78.40243,27.25993],"type":"Point"}
+}
